@@ -19,7 +19,7 @@
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image
-       manifest="https://upload.wikimedia.org/wikipedia/commons/3/37/Pyrrhic_War_Map_-_English-Latin_Version.png">
+       url="https://upload.wikimedia.org/wikipedia/commons/3/37/Pyrrhic_War_Map_-_English-Latin_Version.png">
 
 # Basic usage
 
