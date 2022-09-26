@@ -26,11 +26,16 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 ## Image
 
 _La fundación de Roma se asocia a la leyenda de Luperca, Rómulo y Remo, pero también al mundo divino, griego y los troyanos. Dice la leyenda que Ascanio habría fundado la ciudad de Alba Longa en la orilla derecha del río Tíber.[^1]
-<param ve-image
-       label="Romulo et Remus"
+<param ve-compare curtain 
+       label="Romulo et Remus s "
        description="fundación mítica de Roma"
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/6/6a/She-wolf_suckles_Romulus_and_Remus.jpg">
+<param ve-compare 
+       label="Romulo et Remus "
+       description="fundación mítica de Roma"
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/f/fb/Q._Servilius_Caepio_%28M._Junius%29_Brutus%2C_denarius%2C_54_BC%2C_RRC_433-1_reverse.jpg">
 
 ## Map
 
