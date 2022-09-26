@@ -18,7 +18,7 @@
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image
-       manifest="<a title="Benutzer:Wolpertinger on WP de, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:She-wolf_suckles_Romulus_and_Remus.jpg"><img width="512" alt="She-wolf suckles Romulus and Remus" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/She-wolf_suckles_Romulus_and_Remus.jpg"></a>">
+       manifest="https://upload.wikimedia.org/wikipedia/commons/6/6a/She-wolf_suckles_Romulus_and_Remus.jpg">
 
 # Basic usage
 
