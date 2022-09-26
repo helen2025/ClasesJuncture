@@ -3,7 +3,7 @@
 <param ve-config
        title="Antigua Roma"
        author="Clase 1"
-       banner="https://commons.wikimedia.org/wiki/File:Acueducto_-_panoramio_(1)_edited.jpg#/media/File:Acueducto_-_panoramio_(1)_edited.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/4/4c/Acueducto_de_M%C3%A9rida.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -36,7 +36,7 @@ _La fundación de Roma se asocia a la leyenda de Luperca, Rómulo y Remo, pero t
 
 _Roma se fundó a la orilla del Río Tiber_
 <param ve-entity eid="Q220">
-<param ve-map center="Q220" zoom="11">
+<param ve-map center="Q220" zoom="11" show-labels marker-type="circle" radius="8">
 
 
 ## Multiple viewers
