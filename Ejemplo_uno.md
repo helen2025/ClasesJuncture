@@ -32,7 +32,7 @@ _La fundación de Roma se asocia a la leyenda de Luperca, Rómulo y Remo, pero t
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/6/6a/She-wolf_suckles_Romulus_and_Remus.jpg">
 <param ve-compare 
-       label="Romulo et Remus "
+       label="Romulo et Remus"
        description="fundación mítica de Roma"
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/f/fb/Q._Servilius_Caepio_%28M._Junius%29_Brutus%2C_denarius%2C_54_BC%2C_RRC_433-1_reverse.jpg">
@@ -43,6 +43,10 @@ _Roma se fundó a la orilla del Río Tiber_
 <param ve-entity eid="Q220">
 <param ve-map center="Q220" zoom="11" show-labels marker-type="circle" radius="8" fill="#D6234A" prefer-geojson>
 
+## Buenos Aires a Montevideo
+_Viaje a Uruguay. De Buenos Aires a Montevideo. 
+<param ve-entity eid="Q1486"> <!-- Buenos Aires-->
+<param ve-map center="Q1486" zoom="8">
 
 ## Multiple viewers
 
