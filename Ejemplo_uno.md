@@ -34,7 +34,7 @@ _La fundación de Roma se asocia a la leyenda de Luperca, Rómulo y Remo, pero t
 ## Map
 
 _Roma se fundó a la orilla del Río Tiber_
-<param ve-map center="Q220" zoom="10">
+<param ve-map center="Q220" zoom="12">
 
 ## Multiple viewers
 
