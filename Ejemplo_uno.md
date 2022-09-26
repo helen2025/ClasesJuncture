@@ -46,7 +46,8 @@ _Roma se fundó a la orilla del Río Tiber_
 ## Buenos Aires a Montevideo
 _Viaje a Uruguay. De Buenos Aires a Montevideo. 
 <param ve-entity eid="Q1486"> <!-- Buenos Aires-->
-<param ve-map center="Q1486" zoom="8">
+<param ve-entity eid="Q1335"> <!--Montevideo-->
+<param ve-map center="Q1486" zoom="10">
 
 ## Multiple viewers
 
