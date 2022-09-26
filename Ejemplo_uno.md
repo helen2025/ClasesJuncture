@@ -70,6 +70,7 @@ title="Viaje de Buenos Aires a Montevideo"
 label="Buenos Aires - Montevideo"
 basemap="Esri_WorldGrayCanvas"
 >
+<param ve-map-layer geojson active title="Argentina" url="Argentina.geojson">
  
 ## Multiple viewers
 
