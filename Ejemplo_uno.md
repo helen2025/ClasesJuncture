@@ -33,9 +33,8 @@ _La fundación de Roma se asocia a la leyenda de Luperca, Rómulo y Remo, pero t
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+_Roma se fundó a la orilla del Río Tiber_
+<param ve-map center="Q220" zoom="10">
 
 ## Multiple viewers
 
