@@ -51,8 +51,8 @@ _Viaje a Uruguay. De Buenos Aires a Montevideo.
 
 ## Buenos Aires a Montevideo
 _Viaje a Uruguay. De Buenos Aires a Montevideo. 
-<param ve-entity eid="Q1486" marker-symbol="plane"> <!-- Buenos Aires-->
-<param ve-entity eid="Q1335" marker-symbol="user"> <!--Montevideo-->
+<param ve-entity eid="Q1486" marker-symbol="plane" label="Buenos Aires"> <!-- Buenos Aires-->
+<param ve-entity eid="Q1335" marker-symbol="user" label="Montevideo"> <!--Montevideo-->
 <param ve-map 
 center="-34.740363, -57.252039" zoom="6"
 title="Viaje de Buenos Aires a Montevideo"
