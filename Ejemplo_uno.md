@@ -13,6 +13,7 @@
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity eid="Q220"> <!-- Roma -->
 
 # Fundación mítica de Roma 
 
@@ -34,7 +35,9 @@ _La fundación de Roma se asocia a la leyenda de Luperca, Rómulo y Remo, pero t
 ## Map
 
 _Roma se fundó a la orilla del Río Tiber_
-<param ve-map center="Q220" zoom="12">
+<param ve-entity eid="Q220">
+<param ve-map center="Q220" zoom="11">
+
 
 ## Multiple viewers
 
