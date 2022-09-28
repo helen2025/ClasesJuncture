@@ -81,6 +81,7 @@ center="-34.740363, -57.252039" zoom="6"
 title="Viaje de Buenos Aires a Montevideo"
 label="Buenos Aires - Montevideo"
 basemap="Esri_WorldGrayCanvas"
+fill="blue"
 >
 <param 
 ve-map-layer geojson active title="Viaje" 
