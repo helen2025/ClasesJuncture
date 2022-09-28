@@ -83,11 +83,11 @@ label="Buenos Aires - Montevideo"
 basemap="Esri_WorldGrayCanvas"
 >
 <param 
-ve-map-layer geojson active title="Viaje" 
+ve-map-layer geojson active title="Viaje2" 
 url="bsas-montevideo4.geojson"
 >
 <param 
-ve-map-layer geojson active title="Viaje" 
+ve-map-layer geojson active title="Viaje3" 
 url="Bolivia.geojson"
 >
  
