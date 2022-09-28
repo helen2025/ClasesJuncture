@@ -85,7 +85,10 @@ basemap="Esri_WorldGrayCanvas"
 <param 
 ve-map-layer geojson active title="Viaje" 
 url="bsas-montevideo3.geojson"
-
+>
+<param 
+ve-map-layer geojson active title="Viaje" 
+url="Bolivia.geojson"
 >
  
 ## Multiple viewers
