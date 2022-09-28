@@ -90,6 +90,14 @@ url="bsas-montevideo4.geojson"
 ve-map-layer geojson active title="Viaje3" 
 url="Bolivia.geojson"
 >
+<param 
+ve-map-layer geojson active title="Montevideo" 
+url="Montevideo.geojson"
+>
+<param 
+ve-map-layer geojson active title="Viaje3" 
+url="BuenosAires.geojson"
+>
  
 ## Multiple viewers
 
