@@ -71,6 +71,22 @@ label="Buenos Aires - Montevideo"
 basemap="Esri_WorldGrayCanvas"
 >
 <param ve-map-layer geojson active title="Viaje" url="bsas-montevideo.geojson">
+
+## Buenos Aires a Montevideo
+_Viaje a Uruguay. De Buenos Aires a Montevideo. 
+<param ve-entity eid="Q1486" marker-symbol="plane" label="Buenos Aires"> <!-- Buenos Aires-->
+<param ve-entity eid="Q1335" marker-symbol="user" label="Montevideo"> <!--Montevideo-->
+<param ve-map 
+center="-34.740363, -57.252039" zoom="6"
+title="Viaje de Buenos Aires a Montevideo"
+label="Buenos Aires - Montevideo"
+basemap="Esri_WorldGrayCanvas"
+>
+<param 
+ve-map-layer geojson active title="Viaje" 
+url="bsas-montevideo.geojson"
+fill="blue" 
+>
  
 ## Multiple viewers
 
