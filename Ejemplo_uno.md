@@ -104,14 +104,10 @@ label="Buenos Aires - Montevideo"
 basemap="Esri_WorldGrayCanvas"
 >
 <param 
-ve-map-layer geojson active title="Viaje2" 
-url="bsas-montevideo4.geojson"
+ve-map-layer geojson active title="Viaje3" 
+url="BuenosAires-Montevideo.geojson"
 >
 
-<param 
-ve-map-layer geojson active title="Montevideo" 
-url="Montevideo.geojson"
->
 
 ## Multiple viewers
 
