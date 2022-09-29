@@ -84,12 +84,12 @@ basemap="Esri_WorldGrayCanvas"
 ve-map-layer geojson active title="Viaje2" 
 url="bsas-montevideo4.geojson"
 >
-<param ve-entity eid="Q1335" marker-symbol="none" label="Montevideo"> <!--Montevideo-->
+
 <param 
 ve-map-layer geojson active title="Montevideo" label ="Montevideo"
 url="Montevideo.geojson"
 >
-<param ve-entity eid="Q1486" marker-symbol="plane" label="Buenos Aires"> <!-- Buenos Aires-->
+
 <param 
 ve-map-layer geojson active title="Buenos Aires" label="Buenos Aires" 
 url="BuenosAires.geojson"
