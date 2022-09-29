@@ -3439,7 +3439,8 @@
         "area_sqkm" : 2941.4180000000001, 
         "color" : "#DE600E",
         "fill" : "#DE600E",
-        "fill-opacity" : 0.7
+        "fill-opacity" : 0.7,
+        "label" : "Buenos Aires"
       }
     }
   ]
