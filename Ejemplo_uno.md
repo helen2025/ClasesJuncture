@@ -109,6 +109,18 @@ ve-map-layer geojson active title="Viaje3"
 url="BuenosAires-Montevideo-1.geojson"
 >
 
+## Países en el año 1
+_Límites políticos en el año 1
+<param ve-map 
+show-labels
+title="Países en el año 1BC"
+basemap="Esri_WorldGrayCanvas"
+>
+<param 
+ve-map-layer geojson active title="Año_1" 
+url="cntry1bc.geojson"
+>
+
 
 ## Multiple viewers
 
