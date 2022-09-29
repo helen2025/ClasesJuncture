@@ -1295,7 +1295,8 @@
         "area_sqkm" : 889.06399999999996, 
         "color":"#DE920E",
         "fill": "#DE920E",
-        "fill-opacity": 0.7
+        "fill-opacity": 0.7, 
+        "label": "Montevideo"
       }
     }
   ]
