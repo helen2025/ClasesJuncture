@@ -112,7 +112,6 @@ url="BuenosAires-Montevideo-1.geojson"
 ## Países en el año 1
 _Límites políticos en el año 1
 <param ve-map 
-show-labels
 title="Países en el año 1BC"
 basemap="Esri_WorldGrayCanvas"
 >
