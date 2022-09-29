@@ -86,12 +86,12 @@ url="bsas-montevideo4.geojson"
 >
 
 <param 
-ve-map-layer geojson active title="Montevideo" label ="Montevideo"
+ve-map-layer geojson active title="Montevideo" 
 url="Montevideo.geojson"
 >
 
 <param 
-ve-map-layer geojson active title="Buenos Aires" label="Buenos Aires" 
+ve-map-layer geojson active title="Buenos Aires"  
 url="BuenosAires.geojson"
 >
  
