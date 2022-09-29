@@ -3436,7 +3436,10 @@
         "FID" : 5347,
         "scalerank" : 2,
         "featurecla" : "Urban area",
-        "area_sqkm" : 2941.4180000000001
+        "area_sqkm" : 2941.4180000000001, 
+        "color" : "#DE600E",
+        "fill" : "#DE600E",
+        "fill-opacity" : 0.7
       }
     }
   ]
