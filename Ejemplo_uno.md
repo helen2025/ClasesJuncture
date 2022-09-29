@@ -75,7 +75,7 @@ basemap="Esri_WorldGrayCanvas"
 ## Buenos Aires a Montevideo
 _Viaje a Uruguay. De Buenos Aires a Montevideo. 
 <param ve-map 
-center="-34.740363, -57.252039" zoom="6"
+center="-34.740363, -57.252039" zoom="5"
 title="Viaje de Buenos Aires a Montevideo"
 label="Buenos Aires - Montevideo"
 basemap="Esri_WorldGrayCanvas"
