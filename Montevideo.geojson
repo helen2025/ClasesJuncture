@@ -5,6 +5,7 @@
       "type" : "Feature",
       "id" : 5348,
       "properties": {
+        "color":"#DE920E",
         "fill": "#DE920E",
         "fill-opacity": 0.7
       },
