@@ -4,6 +4,10 @@
     {
       "type" : "Feature",
       "id" : 5348,
+      "properties": {
+        "fill": "#DE920E",
+        "fill-opacity": 0.7
+      }
       "geometry" : {
         "type" : "Polygon",
         "coordinates" : [
