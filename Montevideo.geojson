@@ -4,11 +4,7 @@
     {
       "type" : "Feature",
       "id" : 5348,
-      "properties": {
-        "color":"#DE920E",
-        "fill": "#DE920E",
-        "fill-opacity": 0.7
-      },
+    
       "geometry" : {
         "type" : "Polygon",
         "coordinates" : [
@@ -1296,7 +1292,10 @@
         "FID" : 5348,
         "scalerank" : 3,
         "featurecla" : "Urban area",
-        "area_sqkm" : 889.06399999999996
+        "area_sqkm" : 889.06399999999996, 
+        "color":"#DE920E",
+        "fill": "#DE920E",
+        "fill-opacity": 0.7
       }
     }
   ]
