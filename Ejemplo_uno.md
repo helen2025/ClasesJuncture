@@ -95,6 +95,24 @@ ve-map-layer geojson active title="Buenos Aires"
 url="BuenosAires.geojson"
 >
  
+## Buenos Aires a Montevideo
+_Viaje a Uruguay. De Buenos Aires a Montevideo. 
+<param ve-map 
+center="-34.740363, -57.252039" zoom="7"
+title="Viaje de Buenos Aires a Montevideo"
+label="Buenos Aires - Montevideo"
+basemap="Esri_WorldGrayCanvas"
+>
+<param 
+ve-map-layer geojson active title="Viaje2" 
+url="bsas-montevideo4.geojson"
+>
+
+<param 
+ve-map-layer geojson active title="Montevideo" 
+url="Montevideo.geojson"
+>
+
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.
