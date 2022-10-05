@@ -13,7 +13,7 @@
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
-<param ve-entity eid="Q220"> <!-- Roma -->
+<param ve-entity eid="Q220"> <!-- Roma --> 
 
 # Fundación mítica de Roma 
 
@@ -93,7 +93,8 @@ url="Montevideo.geojson"
 <param 
 ve-map-layer geojson active title="Buenos Aires"  
 url="BuenosAires.geojson"
->
+> 
+<!--Linea de tiempo con agregados -->
  
 ## Buenos Aires a Montevideo
 _Viaje a Uruguay. De Buenos Aires a Montevideo. 
@@ -120,6 +121,18 @@ ve-map-layer geojson active title="Año_1"
 url="cntry1bc.geojson"
 >
 
+## Paises con linea de tiempo
+<param ve-map 
+       time-dimension
+       time-interval="-001000/"
+       duration="P10000Y"
+       basemap="Esri_WorldGrayCanvas"
+       auto-play="true"
+       zoom="2"
+       max-zoom="4"
+       date-format="YYYY"
+       fps="1"
+<param ve-map-layer geojson url="Tamarind_map.json">
 
 ## Multiple viewers
 
