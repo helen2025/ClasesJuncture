@@ -122,6 +122,7 @@ url="cntry1bc.geojson"
 >
 
 ## Paises con linea de tiempo
+Mapa del tamarindo con linea de tiempo
 <param ve-map 
        time-dimension
        time-interval="-001000/"
