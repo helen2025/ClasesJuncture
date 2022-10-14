@@ -159,7 +159,7 @@ url="ne_10m_admin_1_WChina.json"
 >
 <param 
 ve-map-layer geojson active title="Japón y otros" 
-url="ne_10m_admin_0_Jap_den_etc.json"
+url="ne_110m_admin_0_Jap_den_etc.json"
 >
 
 
