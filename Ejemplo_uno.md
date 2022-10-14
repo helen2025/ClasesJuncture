@@ -135,6 +135,34 @@ Mapa del tamarindo con linea de tiempo
        fps="1"
 <param ve-map-layer geojson url="Tamarind_map.json">
 
+## Países Criptomeria Japonica
+_Expansión de la criptomeria japónica
+<param ve-map 
+title="Criptomeria Japónica"
+basemap="Esri_WorldGrayCanvas"
+>
+<param 
+ve-map-layer geojson active title="Azores" 
+url="ne_10m_admin_1_Azores.json"
+>
+<param 
+ve-map-layer geojson active title="CChina" 
+url="ne_10m_admin_1_CentralChina.json"
+>
+<param 
+ve-map-layer geojson active title="NZ" 
+url="ne_10m_admin_1_NZNorte.json"
+>
+<param 
+ve-map-layer geojson active title="WChina" 
+url="ne_10m_admin_1_WChina.json"
+>
+<param 
+ve-map-layer geojson active title="Japón y otros" 
+url="ne_10m_admin_0_Jap_den_etc.json"
+>
+
+
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.
