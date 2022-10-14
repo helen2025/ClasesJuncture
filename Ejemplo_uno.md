@@ -45,7 +45,7 @@ _Roma se fundó a la orilla del Río Tiber_
 
 ## Buenos Aires a Montevideo
 _Viaje a Uruguay. De Buenos Aires a Montevideo. 
-<param ve-entity eid="Q1486" fill="#b71a1a" prefer-geojson> <!-- Buenos Aires, fill definido como parte de la entidad, override después-->
+<param ve-entity eid="Q1486" fill="#b71a1a"> <!-- Buenos Aires, fill definido como parte de la entidad, override después-->
 <param ve-entity eid="Q1335" fill="#dc882f"> <!--Montevideo, fill definido como parte de la entidad, override después-->
 <param ve-map center="Q1486" zoom="6">
 
