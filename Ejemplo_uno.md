@@ -136,7 +136,7 @@ Mapa del tamarindo con linea de tiempo
        time-interval="-001000/"
        duration="P10000Y"
        basemap="Esri_WorldGrayCanvas"
-       auto-play="true"
+       auto-play="false"
        zoom="2"
        max-zoom="4"
        date-format="YYYY"
