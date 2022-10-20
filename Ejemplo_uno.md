@@ -121,6 +121,14 @@ ve-map-layer geojson active title="Año_1"
 url="cntry1bc.geojson"
 >
 
+## Rust Belt
+_Mapa del Rust Belt
+<param ve-map 
+title="Rust Belt"
+basemap="Esri_WorldGrayCanvas"
+>
+<param ve-map-layer mapwarper active mapwarper-id="44832" title="Kent Topo Survey 1860">
+
 ## Paises con linea de tiempo
 Mapa del tamarindo con linea de tiempo
 <param ve-map 
