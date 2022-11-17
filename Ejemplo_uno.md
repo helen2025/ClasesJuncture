@@ -170,6 +170,16 @@ ve-map-layer geojson active title="Japón y otros"
 url="ne_110m_admin_0_Jap_den_etc.json"
 >
 
+## Nepenthes heatmap
+
+Un heatmap que toma puntos de latitudes y longitudes
+<param ve-map center="-2, 118" zoom="4">
+<param ve-map-layer heatmap 
+       url="nepenthes.tsv" 
+       radius="2" 
+       scale-radius="true" 
+       use-local-extrema="true" 
+       max-opacity="0.6">
 
 ## Multiple viewers
 
