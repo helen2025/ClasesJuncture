@@ -179,7 +179,7 @@ Un heatmap que toma puntos de latitudes y longitudes
        radius="2" 
        scale-radius="true" 
        use-local-extrema="true" 
-       max-opacity="0.6">
+       max-opacity="1">
 
 ## Multiple viewers
 
