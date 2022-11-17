@@ -181,11 +181,17 @@ Un heatmap que toma puntos de latitudes y longitudes
        use-local-extrema="true" 
        max-opacity="1">
 
-## Mapa georrefernciado
+## Mapa georreferenciado
 
 Conflicto armado en Colombia
 <param ve-map center="4.807007, -71.523247" zoom="4">
 <param ve-map-layer mapwarper active mapwarper-id="68026" title="Conflicto armado en Colombia">
+
+## Heliconia red
+Red de Heliconia 
+
+<param ve-d3plus-ring-network url="heliconia.tsv" center="Heliconia imbricata">
+
 
 ## Multiple viewers
 
