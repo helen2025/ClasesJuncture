@@ -190,7 +190,7 @@ Conflicto armado en Colombia
 ## Heliconia red
 Red de Heliconia 
 
-<param ve-d3plus-ring-network url="heliconia.tsv" center="Heliconia imbricata" show-edge>
+<param ve-d3plus-network url="heliconia.tsv">
 
 
 ## Multiple viewers
