@@ -184,7 +184,7 @@ Un heatmap que toma puntos de latitudes y longitudes
 ## Mapa georrefernciado
 
 Conflicto armado en Colombia
-<param ve-map center="4.807007, -71.523247" zoom="8">
+<param ve-map center="4.807007, -71.523247" zoom="4">
 <param ve-map-layer mapwarper active mapwarper-id="68026" title="Conflicto armado en Colombia">
 
 ## Multiple viewers
