@@ -176,7 +176,8 @@ _Buenos Aires
 <param ve-map 
 title="Puntos Random"
 center="-34.740363, -57.252039" zoom="7"       
-basemap="Esri_WorldGrayCanvas">
+basemap="Esri_WorldGrayCanvas"
+show-labels>
 
 <param 
 ve-map-layer geojson active title="A" 
