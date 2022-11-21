@@ -177,6 +177,14 @@ _Buenos Aires
 title="Puntos Random"
 center="-34.740363, -57.252039" zoom="7"       
 basemap="Esri_WorldGrayCanvas"
+time-dimension
+       time-interval="-001000/"
+       duration="P10000Y"
+       auto-play="false"
+       zoom="2"
+       max-zoom="4"
+       date-format="YYYY"
+       fps="1"
 show-labels>
 
 <param 
