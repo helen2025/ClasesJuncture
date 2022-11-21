@@ -179,6 +179,11 @@ basemap="Esri_WorldGrayCanvas">
 
 <param 
 ve-map-layer geojson active title="A" 
+marker-type="circle"
+       radius="4" 
+       stroke-width="0"
+       fill="blue" 
+       fill-opacity="1"
 url="map1.json"
 >
 
