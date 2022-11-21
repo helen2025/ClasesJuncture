@@ -170,6 +170,24 @@ ve-map-layer geojson active title="Japón y otros"
 url="ne_110m_admin_0_Jap_den_etc.json"
 >
 
+## Puntos en Buenos Aires
+
+_Buenos Aires
+<param ve-map 
+title="Puntos Random"
+basemap="Esri_WorldGrayCanvas">
+
+<param 
+ve-map-layer geojson active title="A" 
+url="map1.json"
+>
+
+
+<param 
+ve-map-layer geojson active title="A" 
+url="map2.json"
+>
+
 ## Nepenthes heatmap
 
 Un heatmap que toma puntos de latitudes y longitudes
