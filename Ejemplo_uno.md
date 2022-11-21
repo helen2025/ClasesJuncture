@@ -185,13 +185,12 @@ basemap="Esri_WorldGrayCanvas">
 
 <param 
 ve-map-layer geojson active title="A" 
-url="map1.json"
+url="map1.geojson"
 >
-
 
 <param 
 ve-map-layer geojson active title="A" 
-url="map2.json"
+url="map2.geojson"
 >
 
 ## Nepenthes heatmap
