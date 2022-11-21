@@ -175,12 +175,13 @@ url="ne_110m_admin_0_Jap_den_etc.json"
 _Buenos Aires
 <param ve-map 
 title="Puntos Random"
-zoom="8"
-       marker-type="circle"
-       radius="4" 
-       stroke-width="0"
-       fill="blue" 
-       fill-opacity="1">
+marker-type="circle"
+radius="4" 
+stroke-width="0"
+fill="blue" 
+fill-opacity="1"
+center="-34.740363, -57.252039" zoom="7">
+       
 basemap="Esri_WorldGrayCanvas">
 
 <param 
