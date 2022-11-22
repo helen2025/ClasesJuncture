@@ -133,7 +133,7 @@ basemap="Esri_WorldGrayCanvas"
 Mapa del tamarindo con linea de tiempo
 <param ve-map 
        time-dimension
-       time-interval="-001000/"
+       time-interval="10/"
        duration="P10000Y"
        basemap="Esri_WorldGrayCanvas"
        auto-play="false"
